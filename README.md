@@ -1,4 +1,4 @@
-# [Superstore Sales Dashboard]
+# Superstore Sales Dashboard
 
 ## 📊 An interactive R Shiny dashboard built to analyze Superstore sales data. This dashboard helps business users track key performance indicators, visualize revenue trends, and monitor product performance across different regions, categories, and customer segments.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View the live app here](https://zainab1201.shinyapps.io/superstore-dashboard/)**
+🔗 **View the live app here (https://zainab1201.shinyapps.io/superstore-dashboard/)**
 
 ---
 
