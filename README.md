@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **View the live app here (https://zainab1201.shinyapps.io/superstore-dashboard/)**
+🔗 **View the live app here: (https://zainab1201.shinyapps.io/superstore-dashboard/)**
 
 ---
 
