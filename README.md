@@ -51,16 +51,6 @@
 - **tidyverse / dplyr** - Data manipulation
 - **ggplot2** - Static visualizations
 - **plotly** - Interactive charts
-
----
-
-## 🛠️ Technologies Used
-
-- R Shiny
-- ggplot2 / plotly
-- dplyr
-
-
 ---
 ## 📊 Data Source
 
