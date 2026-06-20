@@ -71,3 +71,5 @@ install.packages(c("shiny", "ggplot2", "dplyr"))
 
 # Run the app
 shiny::runGitHub("sales-dashboard", "gmzainab16-eng")
+
+<video src="your-video-file-name.mp4" controls width="100%"></video>
