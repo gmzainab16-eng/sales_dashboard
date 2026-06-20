@@ -72,4 +72,20 @@ install.packages(c("shiny", "ggplot2", "dplyr"))
 # Run the app
 shiny::runGitHub("sales-dashboard", "gmzainab16-eng")
 
+## 📊 Data Source
+
+Superstore Sales Dataset - a publicly available retail sales dataset containing sales, profit, and quantity information across:
+- 4 Regions: Central, East, South, West
+- 3 Categories: Furniture, Office Supplies, Technology
+- Multiple Sub-Categories
+- Customer Segments: Consumer, Corporate, Home Office
+
+## 📫 Contact
+
+**Zainab Altaf**  
+Data Analyst | R Shiny Developer
+
+- [GitHub](https://github.com/gmzainab16-eng)
+- [LinkedIn](https://www.linkedin.com/in/zainab-altaf-56bba6366/)
+- [Email](gmzainab16@gmail.com)
 
