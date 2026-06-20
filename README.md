@@ -59,7 +59,7 @@
 - R Shiny
 - ggplot2 / plotly
 - dplyr
-- [other packages]
+
 
 ---
 
